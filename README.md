@@ -81,6 +81,8 @@ Data Modeling
 Analytical Thinking 
 
 
-👩‍💻 Author
+👩‍💻 AUTHOR
+
 Bhawi Sharma
+
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using Power BI, SQL, Excel, Tableau, and Python.
