@@ -3,7 +3,7 @@ Interactive Power BI Dashboard for analyzing mobile sales performance using Powe
 This project is an interactive Mobile Sales Dashboard built using Microsoft Power BI. The dashboard provides a comprehensive analysis of mobile phone sales across different cities, brands, payment methods, and time periods. It enables users to explore sales performance through interactive filters and visually appealing reports.
 The objective of this project is to demonstrate data cleaning, data modeling, DAX calculations, and dashboard design skills for business intelligence and data analysis.
 
-![MOBILE SALES DASHBOARD](Dashboard 1.png)
+![MOBILE SALES DASHBOARD](Dashboard%201.png)
 
 🎯 PROJECT OBJECTIVES
 
